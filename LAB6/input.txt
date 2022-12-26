@@ -1,0 +1,3 @@
+Medium 5
+Cheap 6
+Expensive 7
